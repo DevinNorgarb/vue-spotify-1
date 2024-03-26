@@ -15,7 +15,7 @@
     "moment": "^2.21.0",
     "pug": "^2.0.0-rc.4",
     "superagent": "^3.8.2",
-    "superagent-throttle": "^0.2.5",
+    "superagent-throttle": "^1.0.1",
     "vue": "^2.5.3",
     "vue-lazyload": "^1.2.6",
     "vue-router": "^3.0.1",
@@ -54,7 +54,7 @@
     "node-notifier": "^5.1.2",
     "postcss-import": "^11.0.0",
     "postcss-loader": "^2.0.8",
-    "semver": "^5.3.0",
+    "semver": "^5.7.2",
     "shelljs": "^0.7.6",
     "optimize-css-assets-webpack-plugin": "^3.2.0",
     "ora": "^1.2.0",
@@ -67,7 +67,7 @@
     "vue-template-compiler": "^2.5.3",
     "portfinder": "^1.0.13",
     "webpack": "^3.6.0",
-    "webpack-dev-server": "^2.9.1",
+    "webpack-dev-server": "^5.0.4",
     "webpack-merge": "^4.1.0"
   },
   "engines": {
